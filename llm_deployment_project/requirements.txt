@@ -1,0 +1,10 @@
+transformers
+torch
+accelerate
+bitsandbytes
+sentencepiece
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+locust
